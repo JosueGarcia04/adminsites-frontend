@@ -12,7 +12,6 @@ export default function LoginViews() {
               id="email"
               type="email"
               className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-              placeholder="Tu correo"
             />
           </div>
           <div className="mb-4">
@@ -21,7 +20,6 @@ export default function LoginViews() {
               id="password"
               type="password"
               className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-              placeholder="Crea tu contraseña"
             />
           </div>
           <button
